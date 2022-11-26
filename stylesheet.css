@@ -1,0 +1,21 @@
+body {
+    background: rgb(255, 247, 236);
+    width: 500px;
+    color: black;
+}
+
+.header li {
+    list-style: none;
+    float: left;
+    border: 1px solid white;
+    margin-right: 5px;
+    border-radius: 3px;
+}
+
+.header a {
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    margin: 2px;
+    font-size: 20px;
+}
